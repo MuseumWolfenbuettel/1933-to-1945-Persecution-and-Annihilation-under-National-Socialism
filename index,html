@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>19. 1933 to 1945:Persecution and Annihilation under National Socialism</title>
+    <title>19.1933 to 1945: Persecution and Annihilation under National Socialism</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>19. 1933 to 1945:Persecution and Annihilation under National Socialism</h1>
+        <h1>19.1933 to 1945: Persecution and Annihilation under National Socialism</h1>
         
         <!-- Аудиоплеер для файла The Town in 1747 – Die Stadt im Jahr 1747 -->
         <audio controls controlslist="nodownload">
@@ -74,7 +74,7 @@ The persecution of Jews also began in 1933. After the nationwide boycott of Jewi
 During the war years after 1939, anti-Jewish measures intensified. Isolation in so-called "Jewish houses" was followed by deportations to the Warsaw Ghetto, Auschwitz, and Theresienstadt. At least 40 residents of Wolfenbüttel who were deported in 1942 and 1943 became victims of the Nazi extermination policies.
 Political dissenters and foreign forced laborers employed in local industries increasingly became targets of Nazi persecution during the Second World War. Charges of "work refusal," "undermining military morale," listening to forbidden enemy radio broadcasts, or alleged "looting" led to trials before the Special Court in Braunschweig or the People’s Court in Berlin, often resulting in draconian sentences, including the death penalty.
 The Nazi regime was finally brought to an end with the arrival of American troops on April 11, 1945.
-  </p>
+   </p>
         
         <!-- Текст-инструкция -->
         <p class="instruction">Continue with button 20</p>
@@ -93,3 +93,4 @@ The Nazi regime was finally brought to an end with the arrival of American troop
     </div>
 </body>
 </html>
+
